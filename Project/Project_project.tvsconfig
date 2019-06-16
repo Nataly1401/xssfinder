@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.uSiteNavigator" Type="System.String" Value="uSiteNavigator" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uSiteReflectedXssFinder" Type="System.String" Value="uSiteReflectedXssFinder" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uSiteStoredXssFinder" Type="System.String" Value="uSiteStoredXssFinder" Category="General" IsBrowsable="False" />
+</TgConfig>
